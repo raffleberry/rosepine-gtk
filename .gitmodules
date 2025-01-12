@@ -1,0 +1,9 @@
+[submodule "gnome-terminal"]
+	path = gnome-terminal
+	url = git@github.com:rose-pine/gnome-terminal.git
+[submodule "WhiteSur-icon-theme"]
+	path = WhiteSur-icon-theme
+	url = git@github.com:vinceliuice/WhiteSur-icon-theme.git
+[submodule "gtk"]
+	path = gtk
+	url = git@github.com:rose-pine/gtk.git
